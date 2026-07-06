@@ -35,7 +35,7 @@ When a leak is found, the tool prints a beautifully structured, monochrome-purpl
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Installation & Setup!
 
 Ensure you have [Node.js](https://nodejs.org/) installed locally.
 
